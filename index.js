@@ -47,7 +47,7 @@ function ortalamaBul(sayilar) {
   return toplam / sayilar.length;
   
 }
-//
+
 /*
   GÖREV 3
   - Input:  Bir sayı arrayini ve ortalama bulmaya yarayacak bir fonksiyonu parametre olarak alacak bir fonksiyon oluştur.
